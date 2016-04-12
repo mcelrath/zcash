@@ -1,4 +1,5 @@
 Bitcoin Core version 0.11.3 is now available from:
+*** Warning: This document has not been updated for Zcash and may be inaccurate. ***
 
   <https://bitcoin.org/bin/bitcoin-core-0.11.3/>
 
