@@ -508,3 +508,4 @@ include Makefile.qttest.include
 endif
 
 include Makefile.zcash.include
+include Makefile.gtest.include
